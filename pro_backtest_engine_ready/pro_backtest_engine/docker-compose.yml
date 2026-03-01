@@ -1,7 +1,0 @@
-
-services:
-  backtest_engine:
-    build: .
-    container_name: pro_backtest_engine
-    ports:
-      - "8000:8000"
